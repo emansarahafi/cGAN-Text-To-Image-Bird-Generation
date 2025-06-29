@@ -40,7 +40,7 @@ The project uses the [CUB-200-2011 Birds dataset](https://www.kaggle.com/dataset
 
 ## Usage
 
-1. Open `submission.ipynb` in Jupyter Notebook or JupyterLab.
+1. Open `submission.ipynb` in Kaggle.
 2. Follow the notebook step-by-step:
    - Data loading and preprocessing
    - Model architecture
